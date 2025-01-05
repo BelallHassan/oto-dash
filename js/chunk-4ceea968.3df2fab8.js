@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-4ceea968","chunk-4ceea968"],{"4b69":function(e,n,p){e.exports=p.p+"img/start_place.1ecb4f55.png"},"4f73":function(e,n,p){e.exports=p.p+"img/end_place.7d78e2d9.png"}}]);
+//# sourceMappingURL=chunk-4ceea968.3df2fab8.js.map

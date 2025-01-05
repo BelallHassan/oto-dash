@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c5254"],{"3e9e":function(e,n,s){"use strict";s.r(n);var t=function(){var e=this,n=e.$createElement,s=e._self._c||n;return s("div",{class:e.className},e._l(e.lines,(function(n){return s("div",{key:n,class:e.className+"__line"})})),0)},a=[],l=(s("a9e3"),{name:"SuspenseText",props:{lines:{type:Number,default:4}},data:function(){return{className:"the-suspense-text"}}}),u=l,c=s("2877"),r=Object(c["a"])(u,t,a,!1,null,null,null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0c5254.01f918c8.js.map

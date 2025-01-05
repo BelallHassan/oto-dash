@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3d4684b6"],{4789:function(t,e,n){"use strict";n("8c1b")},"4a64":function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("h2",{staticClass:"pr-3 oto-page-title"},[t._v(t._s(t.title))])},i=[],a={name:"OtoPageTitle",props:{title:{type:String,default:"Page Title"}}},s=a,l=(n("4789"),n("2877")),o=Object(l["a"])(s,c,i,!1,null,"2138dfc2",null);e["default"]=o.exports},"8c1b":function(t,e,n){}}]);
+//# sourceMappingURL=chunk-3d4684b6.c16c0510.js.map
